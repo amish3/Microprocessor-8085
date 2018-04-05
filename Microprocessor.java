@@ -1,7 +1,5 @@
 /*
  * 8085 Simulator
- * From -Amber Saxena (CS A,4th SEM)
- * 		-Amish Tandon (CS A,4th SEM)
  */
 import java.util.*;
 public class Microprocessor {
